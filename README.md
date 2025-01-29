@@ -1,1 +1,3 @@
-# Quarter3-FA1
+- This is a Laboratory Activity on Module 8.
+- The topics covered in this activity are the basics of Javascript, the basic statements, etc.
+- https://github.com/DerekTBernal/Quarter3-FA1
